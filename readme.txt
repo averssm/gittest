@@ -1,2 +1,2 @@
 Ops.
-I add striung
+I add string
